@@ -1,11 +1,11 @@
 
-<div style=" display:flex; align-items: center; justify-content: center;">
+<div align="center">
     <h2> Hi, I'm Andi!</h2>
     <img src="./jelly.png" width="60">
 </div>
 </br>
 </br>
-<em style="display:flex; flex-direction: column; align-items: center; justify-content: center;">
+<em align="center">
     Mobile Computing Master Graduate @ 
     <a href="http://www.unb.br">
     University of Applied Sciences Upper Austria | Hagenberg</a>
@@ -13,11 +13,11 @@
 </em>
 </br>
 </br>
-<div style="display:flex; align-items: center; justify-content: center;">
+<div align="center">
   <img src="./jelly2.png" width="200px">
 </div>
 
-<div style=" display:flex; align-items: center; flex-direction: column; justify-content: center;">
+<div align="center">
     </br>
     <div>
     🔭 I’m currently working on finding a job in the IT industry.
