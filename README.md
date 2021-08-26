@@ -1,24 +1,20 @@
 
 <div align="center">
     <h2> Hi, I'm Andi!</h2>
-    <img src="./jelly.png" width="60">
 </div>
 </br>
+<div align="center">
+  <img src="./jelly2.png" width="200px">
+</div>
 </br>
 <div align="center">
     <em align="center">
         Mobile Computing Master Graduate @ </br>
         <a href="http://www.unb.br">
         University of Applied Sciences Upper Austria | Hagenberg</a></br>
-        <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif?cid=790b7611af6d9a400d2cc4a3c7a6d6eb60567dfa09b6d241&rid=giphy.gif&ct=s" width="50">
+        <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif?cid=790b7611af6d9a400d2cc4a3c7a6d6eb60567dfa09b6d241&rid=giphy.gif&ct=s" width="70">
     </em>
 </div>
-</br>
-</br>
-<div align="center">
-  <img src="./jelly2.png" width="200px">
-</div>
-
 <div align="center">
     </br>
     <div>
