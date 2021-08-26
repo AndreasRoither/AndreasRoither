@@ -10,7 +10,7 @@
 <div align="center">
     <em align="center">
         Mobile Computing Master Graduate @ </br>
-        <a href="http://www.unb.br">
+        <a href="https://www.fh-ooe.at/en/hagenberg-campus/">
         University of Applied Sciences Upper Austria | Hagenberg</a></br>
         <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif?cid=790b7611af6d9a400d2cc4a3c7a6d6eb60567dfa09b6d241&rid=giphy.gif&ct=s" width="70">
     </em>
