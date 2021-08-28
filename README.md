@@ -17,7 +17,7 @@
 <div align="center">
     </br>
     <div>
-    🔭 I’m currently working on finding a job in the IT industry.
+    🔭 I’m currently looking for a job in the IT industry.
     </div>
     <div>
     🌱 I’m currently learning React and TypeScript.
