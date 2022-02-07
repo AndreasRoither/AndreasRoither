@@ -23,7 +23,7 @@
     🌱 I’m currently learning React and TypeScript.
     </div>
     <div>
-    💬 Ask me about anything! Let's make something together!
+    💬 Ask me about anything! Let's create something together!
     </div>
     <div>
     ⚡ Fun fact: Jellyfish don’t have brains!
