@@ -30,7 +30,6 @@
 </br>
 <div align="center">
     <p>Some stats:</p>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndreasRoither&show_icons=true&theme=tokyonight&&count_private=true&hide=stars" />
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasRoither&layout=compact&theme=tokyonight&langs_count=6" />
 </div>
 
