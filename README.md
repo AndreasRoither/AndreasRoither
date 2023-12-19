@@ -23,7 +23,7 @@
     💬 Ask me about anything! Let's create something together!
     </div>
     <div>
-    ⚡ Fun fact: Jellyfish don’t have brains!
+    ⚡ Fun fact: Jellyfish do not have brains!
     </div>
 </div>
 </br>
