@@ -1,38 +1,39 @@
 <div align="center">
-    <h2> Hi, I'm Andi!</h2>
-</div>
-</br>
-<div align="center">
-  <img src="./jelly2.png" width="200px">
-</div>
-</br>
-<div align="center">
-    <em align="center">
-        Mobile Computing Master Graduate @ </br>
-        <a href="https://www.fh-ooe.at/en/hagenberg-campus/">
-        University of Applied Sciences Upper Austria | Hagenberg</a></br>
-        <img src="https://media.giphy.com/media/K9Xy6osm73DbxIa8f2/giphy.gif?cid=790b7611af6d9a400d2cc4a3c7a6d6eb60567dfa09b6d241&rid=giphy.gif&ct=s" width="70">
-    </em>
-</div>
-<div align="center">
-    </br>
-    <div>
-    🌱 I’m currently learning React and TypeScript.
-    </div>
-    <div>
-    💬 Ask me about anything! Let's create something together!
-    </div>
-    <div>
-    ⚡ Fun fact: Jellyfish do not have brains!
-    </div>
-</div>
-</br>
-</br>
-<div align="center">
-    <p>Some stats:</p>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasRoither&layout=compact&theme=tokyonight&langs_count=6" />
+
+# Hey, I'm Andi 👋
+
+<img src="./mlem.jpg" width="400px" />
+
+**Mobile Computing Master Graduate**
+[University of Applied Sciences Upper Austria · Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus/)
+
+Currently working as Full Stack Developer
+
+<br/>
+
+[anro.dev](https://anro.dev) - [blog.anro.dev](https://blog.anro.dev)
+
 </div>
 
-<p align="center">
-<samp>Check out my repos :arrow_down:</samp>
-</p>
+---
+
+<div align="center">
+
+Currently learning **SolidJS** and **Japanese**  
+
+Photography enthusiast  
+
+Reading *Salt, Fat, Acid, Heat* by Samin Nosrat  
+
+Ask me about anything, let's build something together  
+
+</div>
+
+---
+
+<div align="center">
+    <img src="./jelly.svg" width="48px" />
+</div>
+<div align="center">
+    <samp>↓ check out my repos below ↓</samp>
+</div>
